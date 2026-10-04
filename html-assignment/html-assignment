@@ -1,1 +1,42 @@
+<!DOCTYPE html>     
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Georgina House</title>
+</head>
+<body>
+    <header>
+        <h1>Georgina House</h1>
+    </header>
+    <main>
+        <article>
+            <h2><u>About Me</u></h2>
+
+        <p>
+            My name is Georgina House, and I am currently studying Interactive Media Design. 
+            So far, I am enjoying learning how websites work and how design can shape the way people interact with digital content.
+            I love exploring new creative tools, improving my technical skills, and finding more ways to express myself through design. 
+            In my free time, I enjoy photography, music, self care, and spending time with my family. 
+            Every day I discover something new that inspires me to keep growing.
+        </p>
+
+        <blockquote>
+    <strong>“Creativity is inventing, experimenting, growing, taking risks, breaking rules, making mistakes, and having fun.”</strong>
+    <cite>— Mary Lou Cook</cite>
+</blockquote>
+
+        </article>
+    </main>
+
+
+
+
+
+
+    <footer>
+        <p>&copy; 2026 Georgina House. All rights reserved.</p>
+    </footer>
+</body> 
+</html> 
 
